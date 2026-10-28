@@ -1,0 +1,37 @@
+#idtest{
+    color: bisque;
+}
+
+.test {
+    color: blue;
+}
+
+h2 {
+    color: brown;
+}
+
+p {
+    color: black;
+}
+
+div p {
+    color: pink;
+}
+
+.color-change{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+}
+
+.color-change2{
+    height: 60px;
+    width: 60px;
+    background-color: black;
+}
+
+.color-container{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
